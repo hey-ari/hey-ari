@@ -5,3 +5,6 @@
 <left> I study Computer Science (AI/ML) at Colorado State University. </left>
 <left> I write code in C++ and Python.</left>
 <left> I'm currently working on my portfolio website.</left>
+
+
+<center> Connect With Me </center>
