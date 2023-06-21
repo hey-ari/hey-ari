@@ -1,7 +1,7 @@
 <a href="https://github.com/hey-ari/hey-ari/blob/main/tumblr_onxkyoloha1w05w8zo1_500.gifv.html" target="blank"><img align="right" src="https://github.com/hey-ari/hey-ari/blob/main/tumblr_onxkyoloha1w05w8zo1_500.gifv.html" height="200" /></a>
 
  # ✨ About Me:
-👋🏻 My name is Ari! <br> 👩🏻‍💻I'm a Computer Science student (AI/ML) at CSU <br>Current focus: C++.<br>Looking for new opportunities and connections<br> 🐍Fun fact: I have a pet snake named Python! <br> Let's connect! <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyari_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hey-ari)
+👋🏻 My name is Ari! <br> 👩🏻‍💻 I'm a Computer Science student (AI/ML) at CSU <br>📑 Current focus: C++.<br>🤝 Looking for new opportunities and connections<br> 🐍 Fun fact: I have a pet snake named Python! <br> Let's connect! <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyari_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hey-ari)
 
 
 
